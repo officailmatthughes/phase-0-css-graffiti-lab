@@ -1,1 +1,36 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+
+#wall {
+    border: 15px solid red;
+}
+
+#wall#tag6{
+    width: 300px;
+}
+#wall#tag1{
+    width: 300px;
+}
+#wall#tag2{
+    width: 300px;
+}
+.slick-wicked {
+    color: blue;
+    background-color: blue;
+    margin: auto;
+}
+
+#tag-5 {
+    width: 400px;
+}
+#tag-4 {
+    width: 400px;
+}
+#tag-3 {
+    width: 400px;
+}
+#tag-2 {
+    width: 400px;
+}
